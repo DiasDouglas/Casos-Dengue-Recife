@@ -1,0 +1,32 @@
+{
+    "id": "E8237A1B",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1595544516242.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "dengueData$dt_diagnostico_sintoma",
+        "caption": "dengueData$dt_diagnostico_sintoma",
+        "totalObservations": "61376",
+        "displayedObservations": "61376",
+        "variables": "1",
+        "cacheKey": "8A3E4EDD",
+        "object": "",
+        "environment": "_rs_no_env",
+        "contentUrl": "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=8A3E4EDD&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8387991827837383535,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1595544516242,
+    "read_only": false,
+    "read_only_alternatives": []
+}
