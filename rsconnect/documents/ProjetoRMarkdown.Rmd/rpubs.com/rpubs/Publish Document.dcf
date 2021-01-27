@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/642661/88937079ebeb4af4ac633a0cd337e6f3
+bundleId: https://api.rpubs.com/api/v1/document/642661/88937079ebeb4af4ac633a0cd337e6f3
+url: http://rpubs.com/DiasDouglas/642661
+when: 1596247663.37045
